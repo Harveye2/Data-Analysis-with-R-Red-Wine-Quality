@@ -1,4 +1,4 @@
-# Data-Analysis-with-R-Red-Wine-Quality
+# Data Analysis with R: Red Wine Quality
 Udacity Data Analyst Nanodegree Project
 
 ## Introduction
